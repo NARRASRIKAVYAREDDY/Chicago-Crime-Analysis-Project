@@ -1,14 +1,14 @@
-Crime Analysis & Forecasting in Chicago
+**Crime Analysis & Forecasting in Chicago**
 
 
-Overview
+**Overview**
 
 This project analyzes crime trends in Chicago using data visualization and forecasting techniques. The objective is to identify crime hotspots, peak crime times, law enforcement efficiency, and future crime predictions to support data-driven decision-making.
 
 
 
 
-Features & Key Insights
+**Features & Key Insights**
 
 ✔ Crime Trends – Understand how crime rates fluctuate over time.
 
@@ -26,7 +26,7 @@ Features & Key Insights
 
 
 
-Visualizations in the Project
+**Visualizations in the Project**
 
 This Tableau project includes multiple interactive dashboards and insights, including:
 
@@ -49,7 +49,7 @@ This Tableau project includes multiple interactive dashboards and insights, incl
 
 
 
-Dataset Details
+**Dataset Details**
 
 Source: Chicago Police Department. (2025). Crime Incidents Dataset. Retrieved from https://data.cityofchicago.org
 
